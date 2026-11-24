@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Viewfinder 4 Corner Brackets -->
+    <path
+        android:strokeColor="#14B8A6"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M32,40 v-8 h8 M76,40 v-8 h-8 M32,68 v8 h8 M76,68 v8 h-8" />
+    <!-- Receipt Page -->
+    <path
+        android:fillColor="#F1F5F9"
+        android:pathData="M38,36 h32 v36 h-32 z" />
+    <!-- Laser Scanning Line -->
+    <path
+        android:strokeColor="#10B981"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M24,54 h60" />
+    <!-- Text Rows on Document -->
+    <path
+        android:strokeColor="#64748B"
+        android:strokeWidth="2"
+        android:pathData="M44,44 h20 M44,50 h14 M44,62 h20" />
+</vector>
